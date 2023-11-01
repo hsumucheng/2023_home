@@ -1,4 +1,3 @@
-```
 class CTriangle extends CShape{
     double ca, cb, cc;
     public CTriangle(double a, double b, double c){
@@ -14,5 +13,3 @@ class CTriangle extends CShape{
     }
    
 }
-
-```
